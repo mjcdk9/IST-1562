@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b440a3a8-f3e5-4914-95af-95a0f1ac19ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XjdkBxDDYOHmJBgXZZpQYadYOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.timeConvert">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Time Conversion" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timeConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timeConvert" />
+      <module name="Time Conversion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.timeConvert" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.timeConvert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b440a3a8-f3e5-4914-95af-95a0f1ac19ff" name="Default Changelist" comment="" />
+      <created>1581563577919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581563577919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581698760426">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="597" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1680.1050@0.0.1680.1050" timestamp="1581698760426" />
+    <state width="842" height="363" key="GridCell.Tab.0.bottom" timestamp="1581747138041">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1581568363937" />
+    <state width="842" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138041" />
+    <state width="842" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581708517153" />
+    <state width="842" height="363" key="GridCell.Tab.0.center" timestamp="1581747138038">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1581568363934" />
+    <state width="842" height="363" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138038" />
+    <state width="842" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581708517150" />
+    <state width="842" height="363" key="GridCell.Tab.0.left" timestamp="1581747138037">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1581568363933" />
+    <state width="842" height="363" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138037" />
+    <state width="842" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581708517148" />
+    <state width="842" height="363" key="GridCell.Tab.0.right" timestamp="1581747138039">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1581568363935" />
+    <state width="842" height="363" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138039" />
+    <state width="842" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581708517151" />
+    <state width="842" height="363" key="GridCell.Tab.1.bottom" timestamp="1581747138045">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="842" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138045" />
+    <state width="842" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581708474242" />
+    <state width="842" height="363" key="GridCell.Tab.1.center" timestamp="1581747138043">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="842" height="363" key="GridCell.Tab.1.center/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138043" />
+    <state width="842" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581708474239" />
+    <state width="842" height="363" key="GridCell.Tab.1.left" timestamp="1581747138042">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="842" height="363" key="GridCell.Tab.1.left/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138042" />
+    <state width="842" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581708474238" />
+    <state width="842" height="363" key="GridCell.Tab.1.right" timestamp="1581747138044">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="842" height="363" key="GridCell.Tab.1.right/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581747138044" />
+    <state width="842" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581708474240" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1581629197268">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.23.1680.973@0.23.1680.973" timestamp="1581629197268" />
+    <state x="1987" y="99" key="new project wizard" timestamp="1581745350089">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="269" y="96" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1581709596235" />
+    <state x="1987" y="99" key="new project wizard/0.23.1680.1027/1680.0.1920.1080@1680.0.1920.1080" timestamp="1581745350089" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581632963960">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581632963960" />
+  </component>
+</project>

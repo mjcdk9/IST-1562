@@ -1,0 +1,261 @@
+about 35 
+after 25 
+all 20 29 64 
+already 62 
+also 43 54 
+amazingly 7 
+and 17 21 22 29 30 31 35 40 45 57 59 61 64 69 73 
+any 46 
+anyone 34 
+anything 32 
+anyway 59 
+ape 6 
+apocryphal 65 
+are 7 8 74 
+arm 2 
+backwaters 1 
+bad 22 
+because 14 
+been 22 26 29 
+before 34 
+begins 75 77 
+better 56 
+big 20 
+blockbusters 58 
+blue 6 
+book 43 44 48 50 54 75 
+but 12 40 72 
+cafe 28 
+called 43 
+care 55 
+catastrophe 35 40 45 
+celestial 55 
+change 27 
+cheaper 69 
+civilizations 61 
+colluphid's 57 
+come 50 
+coming 21 
+concerned 13 
+consequences 41 73 74 
+contains 65 
+controversial 57 
+could 30 34 
+cover 70 
+descended 7 
+digital 8 18 
+distance 5 
+don't 70 
+down 21 
+earth 44 45 
+earthman 46 52 
+easterni 61 
+either 52 
+encyclopedia 63 
+end 1 
+england 28 
+even 18 22 45 
+ever 23 50 52 
+extraordinary 73 
+far 1 
+fifty 56 
+finally 29 
+first 21 69 
+for 11 12 26 27 64 
+forever 36 
+forms 7 
+friendly 70 
+from 21 
+galactica 63 
+galaxy 2 44 62 
+get 31 34 
+girl 27 
+god 58 59 
+god's 59 
+going 29 
+good 30 
+gravity 57 
+great 26 51 63 
+greatest 59 
+green 6 13 15 
+guide 44 62 
+had 10 22 26 29 52 
+happy 30 
+has 10 62 64 69 
+have 23 31 
+heard 46 52 
+her 27 38 
+highly 54 
+hiker's 43 62 
+hitch 43 62 
+home 55 
+house 77 
+houses 51 
+how 26 29 73 
+however 34 
+idea 8 35 
+important 66 
+inaccurate 65 
+increasingly 20 
+inextricably 74 
+inscribed 70 
+insignificant 6 
+intertwined 74 
+its 41 70 72 
+knew 29 
+knowledge 64 
+large 70 
+largely 13 
+least 65 
+left 23 
+letters 70 
+lies 2 
+life 7 
+little 6 
+living 11 
+lost 36 
+lots 17 
+made 20 30 
+man 25 
+many 12 20 61 64 
+mean 17 
+miles 5 
+million 5 
+minor 51 
+miserable 18 
+mistake 21 
+mistakes 59 
+more 55 56 57 58 61 66 
+most 10 12 18 50 
+move 22 
+movements 13 
+much 11 65 
+nailed 26 31 
+nearly 25 
+neat 8 
+never 44 45 
+nevertheless 48 
+nice 27 
+ninety 5 
+not 38 44 54 
+occurred 35 45 
+oceans 23 
+odd 14 
+older 66 
+omissions 64 
+omnibus 56 
+one 23 25 31 55 
+ones 18 
+only 54 
+oolon 57 
+opinion 20 
+orbiting 5 
+out 1 50 
+outer 61 
+over 66 
+own 27 
+panic 70 
+paper 14 15 
+pedestrian 66 
+people 11 17 27 
+perhaps 50 
+person 59 
+philosophical 58 
+pieces 13 15 
+place 21 30 
+planet 6 10 
+popular 55 
+pretty 8 11 
+primitive 7 
+problem 10 12 17 
+published 44 
+publishing 51 
+rather 10 
+realized 28 
+relaxed 61 
+remained 17 
+remarkable 48 50 54 74 
+repository 63 
+respects 67 
+rickmansworth 28 
+right 31 
+rim 62 
+roughly 5 
+sadly 34 
+saying 26 
+scores 66 
+secondly 69 
+seen 45 
+selling 56 
+she 29 34 
+should 23 
+simply 75 
+sitting 27 
+slightly 69 
+small 2 13 14 28 
+solutions 12 
+some 22 40 58 
+spiral 2 
+standard 63 
+still 7 
+story 38 40 43 72 73 
+stupid 35 40 72 
+successful 55 
+suddenly 28 
+suggested 12 22 
+sun 3 
+supplanted 62 
+telephone 34 
+tell 34 
+terrible 40 45 72 
+terribly 35 
+than 55 56 57 
+that 7 15 20 22 28 40 65 
+them 18 
+then 25 
+these 12 73 
+they 7 
+they'd 20 
+things 56 
+think 8 
+this 5 10 12 29 30 38 59 72 74 
+though 64 
+thousand 25 
+thursday 25 72 
+time 11 29 30 
+tree 26 
+trees 21 22 
+trilogy 57 
+two 5 25 66 
+uncharted 1 
+unfashionable 1 
+unhappy 11 15 
+unregarded 2 
+until 45 
+ursa 51 
+utterly 6 
+very 75 
+was 10 28 30 36 
+wasn't 14 
+watches 8 18 
+went 58 
+were 11 12 13 15 17 18 20 
+western 2 
+what 28 
+where 58 
+which 10 14 51 
+who 59 
+whole 14 
+wholly 48 54 
+whose 6 
+wildly 65 
+wisdom 64 
+with 13 18 74 77 
+words 69 
+work 31 66 
+world 30 
+would 26 31 
+wrong 29 58 
+years 25 
+yellow 3 
+zero 56 
